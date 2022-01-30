@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  Systems engineer
+  Self taught Systems engineer
 </p>
 
 <br/> 
